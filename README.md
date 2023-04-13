@@ -5,8 +5,6 @@
 
 - Cursando Sistemas De Informação
 
-### Me encontre por ai 🌎
-
 [Linkedin](https://linkedin.com/in/keventeles/)
 
 <img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=KevenDev&count_private=true&show_icons=true&theme=dracula' />
