@@ -30,7 +30,7 @@
 Hello there!! I am Keven [**"KevenDev"**](#)
 I am a front-end developer with a great passion for the world of technology and programming. Currently, I am studying Information Systems, a degree that allows me to further improve my software development skills.
 
-My experience with languages such as JavaScript, React, TypeScript,Bootstrap, NodeJS and Tailwind makes me a highly qualified professional capable of creating elegant and modern user interfaces. In addition, I am always looking to improve my skills, staying up-to-date with market trends and new technologies.
+My experience with languages such as JavaScript, React, TypeScript,Prisma , Bootstrap, NodeJS and Tailwind makes me a highly qualified professional capable of creating elegant and modern user interfaces. In addition, I am always looking to improve my skills, staying up-to-date with market trends and new technologies.
     
 <div align="right" style="margin:auto">
     <a href="https://github.com/KevenDev">
